@@ -1,2 +1,2 @@
 # HelloWorld
-Start of hello world learning in git
+Start of hello world first version
